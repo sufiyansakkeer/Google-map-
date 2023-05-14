@@ -41,6 +41,8 @@ dependencies:
   location: ^4.4.0
   # allow us to use svg images
   flutter_svg: ^1.1.0
+  geolocator: ^9.0.2
+  geocoding: ^2.1.0
 
 dev_dependencies:
   flutter_test:
